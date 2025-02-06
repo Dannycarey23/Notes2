@@ -1,4 +1,4 @@
-namespace MauiApp1;
+namespace Notes;
 
 public partial class AboutPage : ContentPage
 {
