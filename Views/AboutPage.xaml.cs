@@ -1,3 +1,5 @@
+
+
 namespace Notes.Views;
 
 public partial class AboutPage : ContentPage
